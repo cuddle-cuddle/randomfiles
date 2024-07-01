@@ -1,0 +1,637 @@
+{
+    "public_identifier": "yang-lu-7aba9785",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/yang-lu-7aba9785/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240701%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240701T044900Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a171a83a4a5325041ca9954cb5f0007dd2c1322160a6c054376b46dc85e3fbb8",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/yang-lu-7aba9785/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240701%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240701T044900Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5c8931f69a03b67402eae0922ad034d3a0f0aa6f26d0571853341c10d74bad0a",
+    "first_name": "Yang",
+    "last_name": "Lu",
+    "full_name": "Yang Lu",
+    "follower_count": "None",
+    "occupation": "Senior Data Scientist & Machine Learning Engineer at Ellipsis Health",
+    "headline": "I'm a data monster.",
+    "summary": "Ex-Physicist, now Data Scientist/Machine Learning Engineer. \nSolving mental health crisis one data point at a time. \n\nSpecialties: NLP, explainable AI, statistics, data visualization\nTechnologies: Python, PyTorch, R, AWS, Google Firebase\n\nOwner of data\n- Identify data most useful for business use-case\n- Lead fast, efficient, cheap data collection efforts \n- Provide high quality data for model usage\n\nOver-looker of models\n- Innovation: Experiment with new technology, implement existing and invent new models most useful for the use case\n- Fusion: Evaluate all model strength and weaknesses, combine them for best performance\n- Scientist: Meticulous experiment planning and documentation. \n- Publication: Peer reviewed publications and patents on data, models, use case and technology\n\nTeam Player, Speaker of Science \n- Active engagement with other department to understand clinical and business need, converting them to action\n- Advice company growth by use case and technological availability\n- Educate company by holding data science and machine learning talks",
+    "country": "CA",
+    "country_full_name": "Canada",
+    "city": "Waterloo",
+    "state": "Ontario",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2018
+            },
+            "ends_at": "None",
+            "company": "Ellipsis Health",
+            "company_linkedin_profile_url": "https://ca.linkedin.com/company/ellipsis-health",
+            "company_facebook_profile_url": "None",
+            "title": "Senior Data Scientist & Machine Learning Engineer",
+            "description": "Goal: depression screening by speech, using subject metadata and their audio recordings \nData Collection:  Leading a team to locate human subjects, screen and collect data from them. Continuously design, deploy and improve data collections. \nFeature Engineering and Data Pipelining: Architect fully automated processes. Including:  raw data collection, data vetting, data cleaning, feature extraction to cloud storage for ease of access by deep learning models (using AWS lambda, AWS EC2, Google Firebase etc. ).\nModeling: fast model building to identify useful features and metadata, guarantee quality data source for subsequent deep learning models.\nError analysis: Analyze the weakness and strength of each model, combine them for the best overall performance.  \nCollaboration: Working with Engineering and Product team to ensure seamless product development and deployment.",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/ellipsis-health/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240701%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240701T044907Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=f24841616aeed224040fdad55da223ef99bccc709acba084676ca83d4ef7f9a0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2018
+            },
+            "company": "Self-Employed",
+            "company_linkedin_profile_url": "None",
+            "company_facebook_profile_url": "None",
+            "title": "Machine Learning Consultant",
+            "description": "AI consultancy in multiple areas of Machine Learning and Neuron Networks. \nExpertise and experiences in: \n--- Natural Language Processing: sentiment analysis and text categorization\n--- ChatBots, in tensorflow, converse.ai and api.ai\n--- Exploratory Data Analysis",
+            "location": "Waterloo, ontario",
+            "logo_url": "None"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2017
+            },
+            "company": "JBBMobile",
+            "company_linkedin_profile_url": "None",
+            "company_facebook_profile_url": "None",
+            "title": "Web Developer",
+            "description": "---Architected a large project, translating business requirements to specs to wireframe to scrum. \nDesigned and developed javascript libraries of models, views and controllers of 100+ classes using FOAM framework, fully compatible with Salesforce requirements. \n\n---Client heavy applications, optimised data query using Data Access Objects (DAO objects) and local cache to minimizing server side requests and server side queries.\n\n---All projects fully complies with MVC(model, view, controller) design pattern, 100%. \nTaking full advantage of various design patterns and Javascript ES6 features. \n\n---Submit and triage issues, expand foam libraries and contribute to the core code repo",
+            "location": "Toronto, Canada Area",
+            "logo_url": "None"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2018
+            },
+            "company": "Freelance",
+            "company_linkedin_profile_url": "None",
+            "company_facebook_profile_url": "None",
+            "title": "Web Developer",
+            "description": "- Participating in a start-up, using Google Maps API, C# and Javascript that helps people share parking spaces. (demo: http://parkshare.azurewebsites.net/ )\n\n- Personal websites for client with generative art and dynamic elements, using WordPress, PHP and Javascript. (example: http://muktoakash.ca/ )",
+            "location": "Waterloo",
+            "logo_url": "None"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2017
+            },
+            "company": "ApplyBoard",
+            "company_linkedin_profile_url": "https://ca.linkedin.com/company/applyboard",
+            "company_facebook_profile_url": "None",
+            "title": "Software Developer",
+            "description": "Frontend development for a multimillion dollar company, helped \nstudents around the world to find, apply and accept applications \nto post secondary institutions in North America \nDesigned and developed most front end javascript libraries and \nframeworks in React and Redux.  \nAll code are modular, documented and easily testable. \nDocumented and wrote test case for components in Jest and \nEnzyme \nCommunicate with Backend team to streamline, optimize and \nreduce back end tasks. \nTook full advantage of various design patterns and Javascript ES6 \nfeatures.",
+            "location": "Waterloo, Ontario",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/applyboard/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240701%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240701T044907Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=f878f554427e543c74b2cac6f556cd088526bce7b765881fc9f89f09005b0551"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "ApplyBoard",
+            "company_linkedin_profile_url": "https://ca.linkedin.com/company/applyboard",
+            "company_facebook_profile_url": "None",
+            "title": "Web Developer",
+            "description": "-Frontend development for a multimillion dollar company, helping students around the world to  find, apply and accept applications to \n-Designed and developed most front end javascript libraries and frameworks in React and Redux that are modular and testable.",
+            "location": "Kitchener, Canada Area",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/applyboard/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240701%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240701T044907Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=f878f554427e543c74b2cac6f556cd088526bce7b765881fc9f89f09005b0551"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2014
+            },
+            "company": "Hackademy Canada",
+            "company_linkedin_profile_url": "https://ca.linkedin.com/company/hackademy-canada",
+            "company_facebook_profile_url": "None",
+            "title": "Program Coordinator",
+            "description": "None",
+            "location": "None",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQE_3r7qMlMEeg/company-logo_100_100/0/1519910803801?e=2147483647&v=beta&t=Wyp-_2BJ6Yu6qU_dD9IGBoVBaoamMzimWNe8p6JC8W4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2007
+            },
+            "company": "Sybase",
+            "company_linkedin_profile_url": "https://ca.linkedin.com/company/sybase",
+            "company_facebook_profile_url": "None",
+            "title": "Java Web Developer",
+            "description": "None",
+            "location": "None",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFDj3SMLjUQDQ/company-logo_100_100/0/1519855859222?e=2147483647&v=beta&t=xATZ8p228JP6g-skXriYM7rvkTYFex53jxxvllWx3CI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2006
+            },
+            "company": "Sybase",
+            "company_linkedin_profile_url": "https://ca.linkedin.com/company/sybase",
+            "company_facebook_profile_url": "None",
+            "title": "Java Web Developer",
+            "description": "None",
+            "location": "None",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFDj3SMLjUQDQ/company-logo_100_100/0/1519855859222?e=2147483647&v=beta&t=xATZ8p228JP6g-skXriYM7rvkTYFex53jxxvllWx3CI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2006
+            },
+            "company": "BMO Financial Group",
+            "company_linkedin_profile_url": "https://ca.linkedin.com/company/bank-of-montreal",
+            "company_facebook_profile_url": "None",
+            "title": "Web Developer",
+            "description": "None",
+            "location": "Toronto",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/bank-of-montreal/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240701%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240701T044907Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=f828ff87a3c1e0490fe2500d5d6cfed7a77377398e871bf7cb46011a0750b2cf"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "company": "University of Waterloo",
+            "company_linkedin_profile_url": "https://ca.linkedin.com/company/uwaterloo",
+            "company_facebook_profile_url": "None",
+            "title": "Student",
+            "description": "None",
+            "location": "None",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/uwaterloo/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240701%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240701T044907Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=ffc1bdf6f7225050ac914f713db0c9775a6ce32e5d905479cf6a37397901b844"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "company": "University of Waterloo",
+            "company_linkedin_profile_url": "https://ca.linkedin.com/company/uwaterloo",
+            "company_facebook_profile_url": "None",
+            "title": "Student",
+            "description": "None",
+            "location": "None",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/uwaterloo/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240701%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240701T044907Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=ffc1bdf6f7225050ac914f713db0c9775a6ce32e5d905479cf6a37397901b844"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "company": "University of Waterloo",
+            "company_linkedin_profile_url": "https://ca.linkedin.com/company/uwaterloo",
+            "company_facebook_profile_url": "None",
+            "title": "Student",
+            "description": "None",
+            "location": "None",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/uwaterloo/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240701%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240701T044907Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=ffc1bdf6f7225050ac914f713db0c9775a6ce32e5d905479cf6a37397901b844"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "field_of_study": "Theoretical Physics",
+            "degree_name": "Master of Science (MS), Perimeter Scholars International",
+            "school": "University of Waterloo",
+            "school_linkedin_profile_url": "https://ca.linkedin.com/school/uwaterloo/",
+            "school_facebook_profile_url": "None",
+            "description": "None",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/uwaterloo/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240701%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240701T044908Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=6517051c5bc7bb698167035ac8e7a7dd1fd58182deceb3b1f29756453fed4891",
+            "grade": "None",
+            "activities_and_societies": "- Cheese Club/Campus Crusade for Cheese\n- the Pure Math Club (PMC)"
+        },
+        {
+            "starts_at": "None",
+            "ends_at": "None",
+            "field_of_study": "AI",
+            "degree_name": "Cutting Edge Deep Learning For Coders, Part 2",
+            "school": "University of San Francisco",
+            "school_linkedin_profile_url": "https://ca.linkedin.com/school/university-of-san-francisco/",
+            "school_facebook_profile_url": "None",
+            "description": "None",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/university-of-san-francisco/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240701%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240701T044907Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8dc694d57641f51fee1df621903f1528a85b19a9380437eca933ef62083a3deb",
+            "grade": "None",
+            "activities_and_societies": "None"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "field_of_study": "Quantum Photonics",
+            "degree_name": "Master's degree",
+            "school": "Institute of Photonic Science (ICFO)",
+            "school_linkedin_profile_url": "None",
+            "school_facebook_profile_url": "None",
+            "description": "None",
+            "logo_url": "None",
+            "grade": "None",
+            "activities_and_societies": "None"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "field_of_study": "Physics",
+            "degree_name": "None",
+            "school": "The University of British Columbia",
+            "school_linkedin_profile_url": "https://ca.linkedin.com/school/universityofbc/",
+            "school_facebook_profile_url": "None",
+            "description": "None",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/universityofbc/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240701%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240701T044907Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=3fce8a462f94c81e5111a31537bef4f2890cd833b49612a44e6c1be8fea4abea",
+            "grade": "None",
+            "activities_and_societies": "None"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "field_of_study": "Pure Mathematics",
+            "degree_name": "Bachelor of Mathematics, With Distinction",
+            "school": "University of Waterloo",
+            "school_linkedin_profile_url": "https://ca.linkedin.com/school/uwaterloo/",
+            "school_facebook_profile_url": "None",
+            "description": "- specialize in Pure Mathematics and Physics, finding the cause and effect of the universe. \n- executive (communication liaison) of Cheese Club of University of Waterloo",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/uwaterloo/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240701%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240701T044908Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=6517051c5bc7bb698167035ac8e7a7dd1fd58182deceb3b1f29756453fed4891",
+            "grade": "85%",
+            "activities_and_societies": "Executive of the Campus Crusade of Cheese (Cheese Club)\nPure Math Club"
+        }
+    ],
+    "languages": [
+        "English",
+        "Chinese",
+        "German",
+        "Japanese"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+        {
+            "name": "Entanglement-Enhanced Classical Communication over a Noisy Classical Channel",
+            "publisher": "Physical Review Letters",
+            "published_on": {
+                "day": 18,
+                "month": 3,
+                "year": 2011
+            },
+            "description": "We present and experimentally demonstrate a communication protocol that employs shared entanglement to reduce errors when sending a bit over a particular noisy classical channel. Specifically, it is shown that given a single use of this channel, one can transmit a bit with higher success probability when the sender and receiver share entanglement compared to the best possible strategy when they do not. The experiment is realized using polarization-entangled photon pairs, whose quantum correlations play a critical role in both the encoding and decoding of the classical message. Experimentally, we find that a bit can be successfully transmitted with probability 0.891±0.002, which is close to the theoretical maximum of (2+2-1/2)/3≈0.902 and is significantly above the optimal classical strategy, which yields 5/6≈0.833.",
+            "url": "http://prl.aps.org/abstract/PRL/v106/i11/e110505"
+        },
+        {
+            "name": "Minimum-error discrimination of entangled quantum states",
+            "publisher": "Physical Review A",
+            "published_on": {
+                "day": 29,
+                "month": 10,
+                "year": 2010
+            },
+            "description": "Strategies to optimally discriminate between quantum states are critical in quantum technologies. We present an experimental demonstration of minimum-error discrimination between entangled states, encoded in the polarization of pairs of photons. Although the optimal measurement involves projection onto entangled states, we use a result of J. Walgate et al. Phys. Rev. Lett. 85 4972 (2000) to design an optical implementation employing only local polarization measurements and feed-forward, which performs at the Helstrom bound. Our scheme can achieve perfect discrimination of orthogonal states and minimum-error discrimination of nonorthogonal states. Our experimental results show a definite advantage over schemes not using feed-forward.",
+            "url": "http://pra.aps.org/abstract/PRA/v82/i4/e042340"
+        },
+        {
+            "name": "Optimizing Speech-Input Length for Speaker-Independent Depression Classification",
+            "publisher": "INTERSPEECH 2019",
+            "published_on": "None",
+            "description": "Machine learning models for speech-based depression classification offer promise for health care applications. Despite growing work on depression classification, little is understood about how the length of speech-input impacts model performance. We analyze results for speaker-independent depression classification using a corpus of over 1400 hours of speech from a human-machine health screening application. We examine performance as a function of response input length for two NLP systems that differ in overall performance.\n\nResults for both systems show that performance depends on natural length, elapsed length, and ordering of the response within a session. Systems share a minimum length threshold, but differ in a response saturation threshold, with the latter higher for the better system. At saturation it is better to pose a new question to the speaker, than to continue the current response. These and additional reported results suggest how applications can be better designed to both elicit and process optimal input lengths for depression classification.",
+            "url": "https://www.isca-speech.org/archive/Interspeech_2019/abstracts/3095.html"
+        }
+    ],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 432,
+    "people_also_viewed": [
+        {
+            "link": "https://ca.linkedin.com/in/rachel-mak-8b343467",
+            "name": "Rachel Mak",
+            "summary": "Data Engineer at Facebook, Software Developer at Acquia",
+            "location": "Markham, ON"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/jonathan-medwig-8127b63a",
+            "name": "Jonathan Medwig",
+            "summary": "Senior Data Engineer at Faire",
+            "location": "Waterloo, ON"
+        },
+        {
+            "link": "https://www.linkedin.com/in/heidi-milano-a3b67418",
+            "name": "Heidi Milano",
+            "summary": "Manager of a multi-site veterinary hospital & board member of the NJVHMA",
+            "location": "Edison, NJ"
+        },
+        {
+            "link": "https://www.linkedin.com/in/jillgreczek",
+            "name": "Jillian Greczek",
+            "summary": "Senior Software Engineer at Catalia Health",
+            "location": "Greater Houston"
+        },
+        {
+            "link": "https://www.linkedin.com/in/damien-bostick-jr-661b0a16b",
+            "name": "Damien Bostick Jr",
+            "summary": "Student at Clayton State University",
+            "location": "Atlanta Metropolitan Area"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/emanrashdi",
+            "name": "Eman R.",
+            "summary": "Scrum Master and Software Engineer II  at Oracle",
+            "location": "Waterloo, ON"
+        },
+        {
+            "link": "https://www.linkedin.com/in/ishathaker",
+            "name": "Isha Thaker",
+            "summary": ".",
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "link": "https://www.linkedin.com/in/roxy-shu-wang-19691330",
+            "name": "Roxy-Shu Wang",
+            "summary": "Data Enthusiast",
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "link": "https://www.linkedin.com/in/chantavia-jackson-67b27a211",
+            "name": "Chantavia Jackson",
+            "summary": "Lead Toddler Teacher",
+            "location": "Buford, GA"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/abirmkj",
+            "name": "Abir Mukherjee",
+            "summary": "Director of Product Engineering at A.U.G. Signals Ltd.",
+            "location": "Toronto, ON"
+        },
+        {
+            "link": "https://www.linkedin.com/in/derek-james-govkidmethod-53aa50196",
+            "name": "Derek James (GovKidMethod)",
+            "summary": "⛏️💎 Helping Small Businesses Respond to their First Federal Bids on SAM.gov",
+            "location": "Gulf Shores, AL"
+        },
+        {
+            "link": "https://www.linkedin.com/in/narayangup",
+            "name": "Narayan Gupta",
+            "summary": "Data Engineer at Etsy",
+            "location": "Brooklyn, NY"
+        },
+        {
+            "link": "https://www.linkedin.com/in/andyoh365",
+            "name": "Andy Oh",
+            "summary": "Data Center Engineering (BIM & Architecture)",
+            "location": "Cupertino, CA"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/hanhanwu",
+            "name": "Hanhan Wu",
+            "summary": "Senior Data Scientist at Scotia Bank",
+            "location": "Canada"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/naziga",
+            "name": "Emmanuel N.",
+            "summary": "Machine Learning  at Wavo.me",
+            "location": "Toronto, ON"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/wernerchao",
+            "name": "Werner Chao",
+            "summary": "Deep learning engineer",
+            "location": "Toronto, ON"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/mihir-pujara",
+            "name": "Mihir Pujara",
+            "summary": "Software Development Engineer - AWS IoT at Amazon Web Services (AWS)",
+            "location": "Vancouver, BC"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/qufei-chen-693710bb",
+            "name": "Qufei Chen",
+            "summary": "Data Scientist at Shopify",
+            "location": "Greater Ottawa Metropolitan Area"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/zehengl",
+            "name": "Zeheng Li",
+            "summary": "Data Scientist at City of Calgary",
+            "location": "Calgary, AB"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/danial-ghasemi-a5009174",
+            "name": "Danial Ghasemi",
+            "summary": "Data Scientist | Follow Your Dreams!",
+            "location": "Montreal, QC"
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "Thanks Savitha Srinivasan",
+            "link": "https://www.linkedin.com/posts/mainul-i-mondal-9a0484b_thanks-savitha-srinivasan-activity-6940395816104706049-GsrY",
+            "activity_status": "Liked by Yang Lu"
+        },
+        {
+            "title": "Agree?",
+            "link": "https://www.linkedin.com/posts/sean-denny-cfp%C2%AE-3a960029_agree-activity-6937879930655444992-7b_x",
+            "activity_status": "Liked by Yang Lu"
+        },
+        {
+            "title": "I've been getting a lot of messages from recruiters since the pandemic regarding switching jobs, and recently I've been wondering why, since I'm very…",
+            "link": "https://www.linkedin.com/posts/lyle-waldman-25585748_userexperience-linkedin-activity-6940009380117454848-Q6WV",
+            "activity_status": "Liked by Yang Lu"
+        },
+        {
+            "title": "In the twenty-four hours since the tragedy in Texas has occurred, we have heard our politicians use their voice in the world to tell us that they are…",
+            "link": "https://www.linkedin.com/posts/mainul-i-mondal-9a0484b_home-everytown-activity-6935367688336613376-dEsA",
+            "activity_status": "Liked by Yang Lu"
+        },
+        {
+            "title": "I dislike salesforce. A lot.",
+            "link": "https://www.linkedin.com/posts/yang-lu-7aba9785_like-of-steaming-poop-for-devs-activity-6393514094695116800-qHIo",
+            "activity_status": "Shared by Yang Lu"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Yang Lu",
+            "link": "https://cn.linkedin.com/in/yang-lu-40a20797",
+            "summary": "Vice Manager",
+            "location": "Shanghai, China"
+        },
+        {
+            "name": "Yang Lu",
+            "link": "https://ca.linkedin.com/in/yang-lu-77a152b6",
+            "summary": "加拿大麦吉尔大学 - Teaching and Research Assistant",
+            "location": "Greater Montreal Metropolitan Area"
+        },
+        {
+            "name": "Yang Lu",
+            "link": "https://cn.linkedin.com/in/yang-lu-18ab5714",
+            "summary": "Controller China",
+            "location": "Changning District"
+        },
+        {
+            "name": "Yang Lu",
+            "link": "https://tw.linkedin.com/in/yang-lu-a4b577b6",
+            "summary": "Asus SI/PI R&D Engineer",
+            "location": "Taipei City"
+        },
+        {
+            "name": "Yang L.",
+            "link": "https://se.linkedin.com/in/yanginsweden",
+            "summary": "System specialist",
+            "location": "Täby"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [
+        "Programming",
+        "Research",
+        "Mathematics",
+        "Automation",
+        "Physics",
+        "Laser Physics",
+        "Mathematical Physics",
+        "Java",
+        "Relational Databases",
+        "Managing Database",
+        "Mathematica",
+        "Board Games",
+        "Python",
+        "Numerical Analysis",
+        "Latex",
+        "Mathematical Modeling",
+        "Matlab",
+        "Data Analysis",
+        "Php",
+        "Javascript",
+        "Web Development",
+        "C++"
+    ],
+    "inferred_salary": {
+        "min": 55000,
+        "max": 70000
+    },
+    "gender": "None",
+    "birth_date": "None",
+    "industry": "Computer Software",
+    "extra": {
+        "github_profile_id": "None",
+        "twitter_profile_id": "None",
+        "facebook_profile_id": "None"
+    },
+    "interests": [
+        "arts and culture",
+        "board games",
+        "education",
+        "environment",
+        "ocarina",
+        "science and technology",
+        "text book reading"
+    ],
+    "personal_emails": [],
+    "personal_numbers": []
+}
